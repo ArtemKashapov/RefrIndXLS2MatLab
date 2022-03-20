@@ -1,3 +1,4 @@
+# python -m eel gui.py web --onefile --noconsol --i "path\rind_logo.ico"
 import eel
 
 
