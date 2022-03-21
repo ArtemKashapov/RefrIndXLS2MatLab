@@ -136,3 +136,35 @@ body{
     position: absolute;
     left: -9999px;
 }
+
+.download-area {
+  border: 2px dashed #fff;
+  height: 500px;
+  width: 700px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.download-area p{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+  color: #fff;
+}
+
+
+.download-area a{
+  padding: 10px 25px;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  background: #fff;
+  color: #5256ad;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
